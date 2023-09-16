@@ -1,0 +1,26 @@
+
+
+.navbar {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    text-align: center;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+  }
+  
+  .buttons button {
+    background-color: #ff5733;
+    color: white;
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 6px;
+  }
+  
+  
+  
+  
